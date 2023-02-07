@@ -1,1 +1,1 @@
-# This website is the Assignment - 1 for the Cuvette course.
+# Assignment - 1 Project class on HTML and CSS 
